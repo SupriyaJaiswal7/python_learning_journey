@@ -1,62 +1,67 @@
-# Python-DSA-course-
-Preparation for placement 
-Python + DSA Course
+# Python Learning Journey
 
-Description:
-A structured, hands-on course for mastering Python programming and Data Structures & Algorithms (DSA) with the goal of placement preparation. This repository contains lessons, tasks, and mini-projects to help learners build a strong foundation and gradually advance to complex problems.
+This repository contains my notes, practice files, and small programs as I learn Python.  
+The purpose is to stay consistent and keep my progress organized in one place.
 
-Course Structure
-Weeks Overview
+I am keeping all older code as it is.  
+The goal is to show how my Python skills improve over time, not to make everything perfect.
 
-Week 1: Python Basics — input/output, type conversions, variables, operators
+---
 
-Week 2: Control Flow — if/else, loops, functions
+## Folder Structure
 
-Week 3: Data Structures — lists, tuples, dictionaries, sets
+```
+python_learning_journey/
+    week01/
+        day01/
+        day02/
+    week02/
+    projects/
+```
 
-Week 4: OOP in Python — classes, objects, inheritance
+Each folder includes:
+- notes  
+- daily exercises  
+- small programs  
+- any practice tasks for that day  
 
-Week 5+: Advanced Python & DSA — recursion, sorting, searching, problem-solving techniques
+---
 
-Lessons & Tasks
+## How to Run Files
 
-Each week contains:
+1. Clone the repository:
+```
+git clone https://github.com/SupriyaJaiswal7/python_learning_journey.git
+```
 
-Lessons: Concept explanations with examples
+2. Move into any folder:
+```
+cd python_learning_journey/week01/day01
+```
 
-Tasks: Exercises to practice and reinforce the lessons
-
-Mini-Projects: Real-world applications combining multiple concepts
-
-Features
-
-Step-by-step Python and DSA learning
-
-Mini-projects for practical experience
-
-Well-documented code for easy understanding
-
-Ready for placement-oriented problem-solving
-
-Getting Started
-
-Clone the repository:
-
-git clone https://github.com/SupriyaJaiswal7/Python-DSA-course-.git
-
-
-Navigate to a week folder:
-
-cd Python-DSA-course/Week1
-
-
-Run Python scripts:
-
+3. Run a Python file:
+```
 python filename.py
+```
 
+---
 
-Follow lessons and complete tasks
+## Purpose of This Repository
 
-Goal
+- To track my Python learning  
+- To practice basic to intermediate concepts  
+- To improve consistency  
+- To maintain a record of all exercises and small projects  
+- To see how my coding style changes over time  
 
-Equip learners with strong fundamentals in Python programming and DSA while building confidence for coding interviews and placement tests.
+This repository will continue to grow as I learn more.
+
+---
+
+## Upcoming Additions
+
+- cleaner notes  
+- updated versions of older scripts  
+- more mini projects  
+- better folder organization as I progress  
+
